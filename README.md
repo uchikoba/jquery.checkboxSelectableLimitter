@@ -1,0 +1,2 @@
+# jquery.checkboxSelectableLimitter
+チェックボックスに同時選択可能な最大数の制限を設ける
